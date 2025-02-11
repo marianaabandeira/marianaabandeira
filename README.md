@@ -1,3 +1,19 @@
+__Título__ 
+**titulo** 
+
+# Titulo
+## título
+### título
+#### título
+
+<h1>oi mariana </h1>
+
+![minions](https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif)
+
+
+![nuvem](https://img.freepik.com/vetores-gratis/colecao-de-nuvens-desenhadas-a-mao_23-2149017320.jpg?semt=ais_hybrid)
+
+
 <h1 align="center">Hi 👋, I'm Mariana Bandeira</h1>
 <h3 align="center">Em jornada de transição para o universo da tecnologia da informação</h3>
 
