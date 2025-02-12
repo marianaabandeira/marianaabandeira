@@ -17,7 +17,6 @@
 
 <ul>
   <li> Em jornada de transição para o universo da tecnologia da informação</li>
-</ul>
 
 
 
