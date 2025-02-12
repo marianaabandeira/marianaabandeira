@@ -5,6 +5,13 @@
 
 <h1 align="center">olá 👋, me chamo Mariana Bandeira</h1>
 
+
+<p align="center">
+  <img src="https://exemplo.com/imagem.png" alt="https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif">
+</p>
+
+
+
 ![minions](https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif)
 
 <h5 align="center">Em jornada de transição para o universo da tecnologia da informação</h5>
