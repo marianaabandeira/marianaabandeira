@@ -16,7 +16,7 @@
 
 
 <ul>
-  <li> ✨️ Em jornada de transição para o universo da tecnologia da informação</li>
+  <li> 🎓 Estudante de Análise e Desenvolvimento de Sistemas, migrando da Contabilidade para a Tecnologia  </li>
 
 
 
