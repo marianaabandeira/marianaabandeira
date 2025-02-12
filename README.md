@@ -3,7 +3,7 @@
 
 
 
-<h2 align="left">Olá, me chamo Mariana Bandeira 👋</h2>
+<h2 align="left">Olá, sou a Mariana Bandeira 👋</h2>
 
 
 <p align="left">
