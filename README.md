@@ -7,7 +7,7 @@
 
 ![minions](https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif)
 
-<h6 align="center">Em jornada de transição para o universo da tecnologia da informação</h6>
+<h5 align="center">Em jornada de transição para o universo da tecnologia da informação</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianaabandeira&label=Profile%20views&color=0e75b6&style=flat" alt="marianaabandeira" /> </p>
 
