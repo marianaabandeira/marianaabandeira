@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://exemplo.com/imagem.png" alt="https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif/" alt="minions">
 </p>
 
 
