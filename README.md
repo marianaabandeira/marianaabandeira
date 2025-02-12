@@ -3,7 +3,7 @@
 
 
 
-<h2 align="left">Olá, sou a Mariana Bandeira 👋</h2>
+<h3 align="left">Olá, sou a Mariana Bandeira 👋</h3>
 
 
 <p align="left">
@@ -11,6 +11,7 @@
 </p>
 
 
+  
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas, migrando da Contabilidade para a Tecnologia 
 * ✨️ Sempre em busca de novas experiências – adoro experimentar coisas diferentes e sair da rotina
 
