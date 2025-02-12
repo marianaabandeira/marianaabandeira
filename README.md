@@ -13,7 +13,7 @@
 
 ***Em jornada de transição para o universo da tecnologia da informação**
 
-1.Em jornada de transição para o universo da tecnologia da informação
+
 
 
 
