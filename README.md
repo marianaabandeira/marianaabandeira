@@ -11,7 +11,7 @@
 </p>
 
 
-*Em jornada de transição para o universo da tecnologia da informação-
+***Em jornada de transição para o universo da tecnologia da informação**
 
 <h5 align="center">Em jornada de transição para o universo da tecnologia da informação</h5>
 
