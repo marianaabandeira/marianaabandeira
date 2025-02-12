@@ -13,6 +13,8 @@
 
 ***Em jornada de transição para o universo da tecnologia da informação**
 
+1.Em jornada de transição para o universo da tecnologia da informação
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianaabandeira&label=Profile%20views&color=0e75b6&style=flat" alt="marianaabandeira" /> </p>
