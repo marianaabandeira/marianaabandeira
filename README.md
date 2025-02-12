@@ -21,6 +21,7 @@
 
 <ul>
   <li> ✨️ Sempre em busca de novas experiências – adoro experimentar coisas diferentes e sair da rotina  </li>
+  <ul>
 
 
 
