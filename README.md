@@ -1,15 +1,4 @@
-__Título__ 
-**titulo** 
 
-# Titulo
-## título
-### título
-#### título
-
-
-<h1>oi mariana </h1>
-
-<h1 style="color:pink;">Este é um título rosa</h1>
 
 ![minions](https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif)
 
