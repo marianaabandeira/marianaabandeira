@@ -3,10 +3,10 @@
 
 
 
-<h1 align="center">Olá, me chamo Mariana Bandeira 👋</h1>
+<h2 align="left">Olá, me chamo Mariana Bandeira 👋</h2>
 
 
-<p align="center">
+<p align="left">
   <img src="https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif/" alt="minions">
 </p>
 
