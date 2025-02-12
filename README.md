@@ -17,6 +17,8 @@
 
 <ul>
   <li> 🎓 Estudante de Análise e Desenvolvimento de Sistemas, migrando da Contabilidade para a Tecnologia  </li>
+
+
 <ul>
   <li> ✨️ Sempre em busca de novas experiências – adoro experimentar coisas diferentes e sair da rotina  </li>
 
