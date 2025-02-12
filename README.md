@@ -23,6 +23,7 @@
 <li> ✨️ Sempre em busca de novas experiências – adoro experimentar coisas diferentes e sair da rotina  </li>
   <ul>
 
+** ✨️ Sempre em busca de novas experiências – adoro experimentar coisas diferentes e sair da rotina
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianaabandeira&label=Profile%20views&color=0e75b6&style=flat" alt="marianaabandeira" /> </p>
