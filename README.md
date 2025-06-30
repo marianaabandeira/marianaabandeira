@@ -12,3 +12,6 @@ Profissional com experiência administrativa e fiscal: Iniciei minha carreira na
 - **Linguagens e Ferramentas:** MySQL | Excel | PowerPoint | Python (conceitos básicos) | TypBot | Project Management | Inglês básico | Figma | GitHub | Miro  
 - **Soft Skills:** Organização, determinação, adaptabilidade, aprendizado contínuo
 
+<p align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*vHi6UQcyvM8tT_Jf.gif/" alt="minions">
+</p>
